@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&customColorList=0,2,2,2,2,3&amp;height=300&amp;section=header&amp;text=@kkkkkksssssaaaa&amp;fontSize=40&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Thanks%20for%20visiting%20my%20GitHub&amp;descAlignY=51&amp;descAlign=62" />
 </div>
 
-<h1 align="center"><b>🛠 Tech Stack 🛠</b></h1>
+<h2 align="center" style="font-size:35px;">
+  🛠 Tech Stack
+</h2>
 </br>
 <p align="center">
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"></a> &nbsp
@@ -13,32 +15,44 @@
 </p>
 
 <br/>
-<br/>
+<hr/>
 <br/>
 
 <div style="width:50%; margin:0 auto;" align="center">
-  <h1 align="center">
+  <h2 align="center" style="font-size:35px;">
     👇 Click Here
-  </h1>
-  <div style="width:50%; float:left;">
+  </h2>
+  <div>
     <a href="https://www.linkedin.com/in/승아-김-897404220/" target="_blank">
       <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>   
-    <p>
-      My Profile
-    </p>
+    <h3>
+      👐 &nbsp;My Profile
+    </h3>
   </div>
-  <div style="width:50%; float:right;">
+  <br/>
+  <div>
     <a href="https://asskj.notion.site/50fd831e2d034d269ec0ab53d05b94d8" target="_blank">
       <img src="https://img.shields.io/badge/notion-222222?style=for-the-badge&logo=notion&logoColor=white">
     </a>   
-    <p>Daily Study</p>
+    <h3>
+      📗 &nbsp;Daily Study
+    </h3>
   </div>
 </div>
 
+<br/>
+<hr/>
+<br/>
 
-
-<!--
-Comming Up 블로그
-Comming Up Resume
--->
+<div style="width:50%; margin:0 auto;" align="center">
+  <h2 align="center" style="font-size:35px;">
+    🤔 Comming Soon
+  </h2>
+  <h3>
+    💻 Tech Blog
+  </h3>
+  <h3>
+    👩🏻‍💻 Resume
+  </h3>
+</div>
