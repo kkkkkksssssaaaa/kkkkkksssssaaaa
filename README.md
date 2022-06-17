@@ -83,16 +83,3 @@
 </div>
   </div>
 </div>
-
-<br/>
-<hr/>
-<br/>
-
-<div style="width:50%; margin:0 auto;" align="center">
-  <h2 align="center" style="font-size:35px;">
-    🤔 Comming Soon
-  </h2>
-  <h3>
-    💻 Tech Blog
-  </h3>
-</div>
