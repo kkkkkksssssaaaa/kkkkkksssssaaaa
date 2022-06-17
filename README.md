@@ -24,20 +24,12 @@
   </h2>
   <div>
     <a href="https://www.linkedin.com/in/승아-김-897404220/" target="_blank">
-      <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+      <img src="https://img.shields.io/badge/My Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> 
     </a>   
-    <h3>
-      👐 &nbsp;My Profile
-    </h3>
-  </div>
-  <br/>
-  <div>
+    &nbsp;
     <a href="https://asskj.notion.site/50fd831e2d034d269ec0ab53d05b94d8" target="_blank">
-      <img src="https://img.shields.io/badge/notion-222222?style=for-the-badge&logo=notion&logoColor=white">
-    </a>   
-    <h3>
-      📗 &nbsp;Daily Study
-    </h3>
+      <img src="https://img.shields.io/badge/Daily Study-222222?style=for-the-badge&logo=notion&logoColor=white">
+    </a>
   </div>
 </div>
 
@@ -51,8 +43,5 @@
   </h2>
   <h3>
     💻 Tech Blog
-  </h3>
-  <h3>
-    👩🏻‍💻 Resume
   </h3>
 </div>
