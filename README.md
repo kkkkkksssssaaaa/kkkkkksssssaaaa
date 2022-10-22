@@ -2,8 +2,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkkkkksssssaaaa&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Main Project](https://github-readme-stats.vercel.app/api/pin/?username=kkkkkksssssaaaa&repo=s-pay&theme=gotham)](https://github.com/kkkkkksssssaaaa/s-pay)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkkkkksssssaaaa&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
