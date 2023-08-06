@@ -1,4 +1,4 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&customColorList=0,2,2,2,2,3&amp;height=300&amp;section=header&amp;text=@kkkkkksssssaaaa&amp;fontSize=40&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Thanks%20for%20visiting%20my%20GitHub&amp;descAlignY=51&amp;descAlign=62)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&=0,2,2,2,2,3&height=300&section=header&text=@kkkkkksssssaaaa&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Thanks%20for%20visiting%20my%20GitHub&descAlignY=51&descAlign=62)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkkkkksssssaaaa&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -7,9 +7,10 @@
 <br/>
 
 # 👐 Hello World!
-* 👩🏻‍💻 Back-end developer 
-* 🧩 Object oriented 
-* 🚩 [Software professionalism](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=66925855) 
+
+- 👩🏻‍💻 Back-end developer
+- 🧩 Object oriented
+- 🚩 [Software professionalism](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=66925855)
 
 <br/>
 
@@ -30,14 +31,11 @@
 <br/>
 
 # 👇 Click Here
+
 [![daily-study](https://img.shields.io/badge/study-222222?style=for-the-badge&logo=notion&logoColor=white)](https://asskj.notion.site/50fd831e2d034d269ec0ab53d05b94d8)
 [![public-resume](https://img.shields.io/badge/resume-00A98F?style=for-the-badge&logo=notion&logoColor=white)](https://asskj.notion.site/I-am-7bb0bf4b467147849b99d0a3edcbe93c)
 [![my-profile](https://img.shields.io/badge/profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/승아-김-897404220/)
-
-<br/><br/>
-
-# 🤔 Comming Soon
-[💻 Tech Blog]
+[![my-blog](https://img.shields.io/badge/blog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@kkkkkksssssaaaa)
 
 <br/><br/>
 
