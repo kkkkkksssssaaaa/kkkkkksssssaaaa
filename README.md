@@ -33,9 +33,10 @@
 # 👇 Click Here
 
 [![daily-study](https://img.shields.io/badge/study-222222?style=for-the-badge&logo=notion&logoColor=white)](https://asskj.notion.site/50fd831e2d034d269ec0ab53d05b94d8?pvs=4)
-[![public-resume](https://img.shields.io/badge/resume-00A98F?style=for-the-badge&logo=notion&logoColor=white)](https://asskj.notion.site/resume-118b5d1255194e91a503888e6482ce70?pvs=4)
 [![my-profile](https://img.shields.io/badge/profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/승아-김-897404220/)
 [![my-blog](https://img.shields.io/badge/blog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@kkkkkksssssaaaa)
+
+<!-- [![public-resume](https://img.shields.io/badge/resume-00A98F?style=for-the-badge&logo=notion&logoColor=white)](https://asskj.notion.site/resume-118b5d1255194e91a503888e6482ce70?pvs=4) -->
 
 <br/><br/>
 
