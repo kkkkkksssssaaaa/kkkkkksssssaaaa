@@ -26,7 +26,7 @@
 ![intellij](https://img.shields.io/badge/IntelliJ-DD1265?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
 ![vs code](https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=ffffff)
 ![visual studio](https://img.shields.io/badge/visual%20studio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=ffffff)
-![typescript](https://img.shields.io/badge/Tavascript-397dc8?style=for-the-badge&logo=javascript&logoColor=white)
+![typescript](https://img.shields.io/badge/Typescript-397dc8?style=for-the-badge&logo=typescript&logoColor=white)
 ![javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![c sharp](https://img.shields.io/badge/Csharp-239120?style=for-the-badge&logo=CSharp&logoColor=white)
 
