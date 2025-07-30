@@ -39,7 +39,3 @@
 [![my-blog](https://img.shields.io/badge/blog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@kkkkkksssssaaaa)
 
 <!-- [![public-resume](https://img.shields.io/badge/resume-00A98F?style=for-the-badge&logo=notion&logoColor=white)](https://asskj.notion.site/resume-118b5d1255194e91a503888e6482ce70?pvs=4) -->
-
-<br/><br/>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkkkkkksssssaaaa&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
